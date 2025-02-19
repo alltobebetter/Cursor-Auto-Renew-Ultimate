@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="screen/cursor_ultimate.svg" alt="CursorUltimate Logo" width="128" height="128">
+  <img src="cursor_ultimate.svg" alt="CursorUltimate Logo" width="128" height="128">
   <h1>CursorUltimate</h1>
   <p>🚀 让您的 Cursor 体验更进一步</p>
 </div>

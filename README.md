@@ -1,10 +1,19 @@
 <div align="center">
   <img src="cursor_ultimate.svg" alt="CursorUltimate Logo" width="128" height="128">
-  <h1>CursorUltimate</h1>
+  <h1><i>CursorUltimate</i></h1>
   <p>🚀 让您的 Cursor 体验更进一步</p>
 </div>
 
 ---
+## 先前声明
+
+**运行时请以管理员权限运行，建议您开启全局代理使用，否则可能无法使用本项目**。此项目将配置文件整合，因此域名和服务都是作者自费购买，以及我们移除了多半广告内容，如果有条件或者有问题的同学可以请我喝杯奶茶（多少都可以）
+
+<p align="center">
+    <img src="https://i.gyazo.com/db0c56a48451eb30f9ab2c58ad46fffe.png" alt="一杯奶茶" width="400"/>
+</p>
+<p align="center"><em>请我喝奶茶</em></p>
+
 
 ## 功能特点
 
@@ -52,5 +61,7 @@ Q: 重置后需要做什么？
 A: 重置完成后，请完全关闭并重新启动 Cursor 编辑器。
 
 ## 免责声明
+
+本项目基于 [CursorPro](https://github.com/chengazhen/cursor-auto-free) 开发，请尊重原作者权益。
 
 本程序仅供学习和研究使用，使用本程序产生的任何后果由使用者自行承担。 
